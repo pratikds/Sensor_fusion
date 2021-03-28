@@ -1,0 +1,81 @@
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 19.472 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.88328 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 9.52798 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.829737 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=92 matches in 0.402018 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 8.86352 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.645278 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=102 matches in 0.317116 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 7.83124 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.602276 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=106 matches in 0.33553 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 8.22719 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.642506 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=113 matches in 0.388682 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 8.66495 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.72125 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=109 matches in 0.402479 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 8.13874 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.704529 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=125 matches in 0.473869 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 8.01288 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.679544 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=130 matches in 0.487912 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 7.97119 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.676816 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=129 matches in 0.484945 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB with n= 500 keypoints in 9.27365 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.694348 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=127 matches in 0.45822 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+ + 
+All keypoints: 1161
+All matched keypoints: 1033
+All time: 3.6142e+15 ms

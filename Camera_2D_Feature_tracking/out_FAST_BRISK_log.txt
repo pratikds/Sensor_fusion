@@ -1,0 +1,81 @@
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1824 keypoints in 1.03826 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.91882 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1832 keypoints in 1.01362 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.7429 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=149 matches in 0.706558 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1810 keypoints in 0.939367 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.69869 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=152 matches in 0.645177 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1817 keypoints in 0.967927 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.10383 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=150 matches in 0.646427 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1793 keypoints in 1.41963 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.76264 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=155 matches in 0.648402 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1796 keypoints in 0.874096 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.74765 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=149 matches in 0.656077 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1788 keypoints in 0.986639 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.09734 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=149 matches in 0.688262 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1695 keypoints in 1.02661 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.77536 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=156 matches in 0.637653 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1749 keypoints in 0.936431 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.79376 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=150 matches in 1.40658 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST with n= 1770 keypoints in 1.97672 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.69376 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=138 matches in 0.79006 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+ + 
+All keypoints: 1491
+All matched keypoints: 1348
+All time: 3.31408e+15 ms

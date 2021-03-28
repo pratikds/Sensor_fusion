@@ -1,0 +1,81 @@
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1438 keypoints in 179.039 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.73345 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1371 keypoints in 160.927 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.58616 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=138 matches in 0.62654 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1380 keypoints in 159.924 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.5306 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=132 matches in 0.656004 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1335 keypoints in 138.807 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.68755 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=124 matches in 0.566259 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1305 keypoints in 138.016 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.61486 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=137 matches in 0.5625 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1370 keypoints in 136.766 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.71472 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=134 matches in 0.82106 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1396 keypoints in 143.488 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.65278 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=140 matches in 0.585896 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1382 keypoints in 141.522 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.74752 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=137 matches in 0.687278 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1463 keypoints in 143.289 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.82222 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=148 matches in 0.64076 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1422 keypoints in 136.714 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.65989 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=159 matches in 0.684524 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+ + 
+All keypoints: 1386
+All matched keypoints: 1249
+All time: 3.72835e+15 ms

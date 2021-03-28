@@ -1,0 +1,81 @@
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1351 keypoints in 122.201 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.09003 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1327 keypoints in 129.319 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.85735 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=166 matches in 0.753572 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1311 keypoints in 113.662 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.89448 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=157 matches in 0.70534 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1351 keypoints in 113.882 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.88406 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=161 matches in 0.70129 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1360 keypoints in 115.323 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.87476 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=155 matches in 0.69601 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1347 keypoints in 114.952 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.72772 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=163 matches in 0.725537 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1363 keypoints in 111.008 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.84284 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=164 matches in 0.751966 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1331 keypoints in 111.526 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.64979 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=173 matches in 0.883716 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1357 keypoints in 110.73 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.67672 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=175 matches in 0.844624 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE with n= 1331 keypoints in 110.96 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.59785 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=177 matches in 0.838951 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+ + 
+All keypoints: 1670
+All matched keypoints: 1491
+All time: 3.56148e+15 ms

@@ -1,0 +1,81 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 20.1202 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.16589 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 18.5903 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.32682 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=125 matches in 0.550129 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 18.932 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.03463 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=118 matches in 0.438085 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 16.9905 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.997869 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=123 matches in 0.444071 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 17.2488 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.04926 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=120 matches in 0.465887 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 17.4689 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.11888 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=120 matches in 0.42214 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 17.1517 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.0269 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=113 matches in 0.399368 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 16.9501 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.03382 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=114 matches in 0.416696 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 17.3966 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.09197 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=123 matches in 0.428061 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 18.5051 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.12305 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=111 matches in 0.435472 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+ + 
+All keypoints: 1179
+All matched keypoints: 1067
+All time: 2.19407e+15 ms

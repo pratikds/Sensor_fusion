@@ -1,0 +1,81 @@
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1438 keypoints in 192.747 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.4267 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1371 keypoints in 161.927 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 41.4639 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=138 matches in 0.624323 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1380 keypoints in 178.638 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 41.884 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=132 matches in 0.527606 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1335 keypoints in 172.081 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 41.2505 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=124 matches in 0.513268 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1305 keypoints in 164.782 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 43.3895 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=137 matches in 0.565526 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1370 keypoints in 166.855 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 41.7645 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=134 matches in 0.550322 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1396 keypoints in 169.018 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.8192 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=140 matches in 0.575304 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1382 keypoints in 173.743 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 42.9244 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=137 matches in 0.68585 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1463 keypoints in 173.798 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.9951 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=148 matches in 0.652964 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT with n= 1422 keypoints in 170.658 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 41.5924 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=159 matches in 0.6621 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+ + 
+All keypoints: 1386
+All matched keypoints: 1249
+All time: 3.76888e+15 ms

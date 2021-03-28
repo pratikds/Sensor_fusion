@@ -1,0 +1,81 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 20.2326 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 43.8173 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 17.6748 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.326 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=125 matches in 0.537643 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 17.7016 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.3125 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=118 matches in 0.4712 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 13.7627 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.8248 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=123 matches in 0.481602 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 12.3042 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.9675 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=120 matches in 0.45829 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 12.3578 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.4921 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=120 matches in 0.47263 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 12.8248 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 45.1277 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=113 matches in 0.42197 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 12.4653 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.441 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=114 matches in 0.456249 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 12.5053 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.9458 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=123 matches in 0.474858 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 12.7981 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.5347 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=111 matches in 0.440303 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+ + 
+All keypoints: 1179
+All matched keypoints: 1067
+All time: 2.22001e+15 ms

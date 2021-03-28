@@ -1,0 +1,81 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=115 keypoints in 23.2829 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 0.564655 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=98 keypoints in 17.226 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.2809 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=17 matches in 0.280359 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=113 keypoints in 17.4242 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.45013 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=14 matches in 0.102672 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=121 keypoints in 17.4682 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.39115 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=18 matches in 0.095369 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=160 keypoints in 17.5016 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.37736 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=21 matches in 0.101177 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=383 keypoints in 33.6296 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.57318 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=26 matches in 0.124969 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=85 keypoints in 17.1547 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.28412 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=43 matches in 0.125451 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=210 keypoints in 19.2703 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.42105 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=18 matches in 0.112047 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=171 keypoints in 18.3463 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.40086 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=31 matches in 0.118007 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=281 keypoints in 22.4079 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.50379 ms
+#3 : EXTRACT DESCRIPTORS done
+ (NN) with n=26 matches in 0.129835 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+ + 
+All keypoints: 248
+All matched keypoints: 214
+All time: 2.70398e+15 ms
