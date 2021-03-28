@@ -1,0 +1,36 @@
+# Project Assignment - Udacity Radar target Generation and Detection
+
+# Implementing 2D CFAR steps
+
+Step1:- Determining the training cell for each dimension and also pick the number of guard Cells in both the dimensions around the CUT (cell under the Test) for accurate estimation.
+
+tc= 10; % training_cells 
+tb= 8;  % training_band
+tg_c = 4 ;  % guard_cells
+tg_b=4; % guard_band
+
+Step2:- Slide CUT Through Complete Range Doppler Map (complete Matrix).
+
+Step3:-Offset the Threshold BY SNR Value in DB;
+
+offset = 1.4;
+
+Step4:- Loop through the complete matrix such that CUT has margin for Training and Guard cells from the edges.
+
+Step5:- For each iteration, sum the signal level within all the training cells. In order to sumup, convert the value from log scale to linear scale using pow2db function.
+
+Step6:- Average the summed values for all of the training cells used. After averaging convert it back to logarithimic using pow2db.
+
+Step7:- Add the offset to it to in order to determine the threshold.
+
+Step8:- Compare the signal under CUT with this threshold. If the CUT level > threshold assign it a value of 1, else equate it to 0.
+
+Step9:- Use the Range Doppler Map RDM[x,y] as the matrix from the output of 2D FFT for implementation of CFAR.
+
+Step10:- Range_doppler_map = RDM
+
+RDM = RDM/max(max(RDM));
+
+The process above will generate a thresholded block, which is smaller  than the Range Doppler Map as the CUT cannot be located at the edges ofmatrix. Hence,few cells will not be thresholded. To keep the map size same set those values to 0. 
+
+Thus 2D CFAR implementation takes place with the above statement algorithm and the output shown from the graph will be generated.

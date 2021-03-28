@@ -1,0 +1,65 @@
+# Project Assignment - Udacity Radar target Generation and Detection
+
+# Implementing 2D CFAR steps
+
+Step1:- Determining the training cell for each dimension and also pick the number of guard Cells in both the dimensions around the CUT (cell under the Test) for accurate estimation.
+
+Tr= 12; 
+Td= 10;
+Gr = 4 ; Gd=4;
+
+Step2:- Slide CUT Through Complete Range Doppler Map (complete Matrix).
+
+Step3:-Offset the Threshold BY SNR Value in DB;
+
+offset = 1.4;
+
+Step4:- Loop through the complete matrix such that CUT has margin for Training and Guard cells from the edges.
+
+Step5:- For each iteration, sum the signal level within all the training cells. In order to sumup, convert the value from log scale to linear scale using pow2db function.
+
+Step6:- Average the summed values for all of the training cells used. After averaging convert it back to logarithimic using pow2db.
+
+Step7:- Add the offset to it to in order to determine the threshold.
+
+Step8:- Compare the signal under CUT with this threshold. If the CUT level > threshold assign it a value of 1, else equate it to 0.
+
+Step9:- Use the Range Doppler Map RDM[x,y] as the matrix from the output of 2D FFT for implementation of CFAR.
+
+Step10:- Range_doppler_map = RDM
+
+RDM = RDM/max(max(RDM));
+
+The process above will generate a thresholded block, which is smaller  than the Range Doppler Map as the CUT cannot be located at the edges ofmatrix. Hence,few cells will not be thresholded. To keep the map size same set those values to 0. 
+
+for i = Tr+Gr+1:(Nr/2)-(Gr+Tr)
+    for j = Td+Gd+1:Nd-(Gd+Td)
+       
+        % vector to store noise_level for each iteration on training cells
+        noise_level = zeros(1,1);
+        
+        for p = i-(Tr+Gr) : i+(Tr+Gr)
+            for q = j-(Td+Gd) : j+(Td+Gd)
+                if (abs(i-p) > Gr || abs(j-q) > Gd)
+                    noise_level = noise_level + db2pow(RDM(p,q));
+                end
+            end
+        end
+        
+        threshold = pow2db(noise_level/(2*(Td+Gd+1)*2*(Tr+Gr+1)-(Gr*Gd)-1));
+        threshold = threshold + offset;
+        CUT = RDM(i,j);
+        
+        if (CUT < threshold)
+            RDM(i,j) = 0;
+        else
+            RDM(i,j) = 1;
+        end
+        
+    end
+end
+```
+
+RDM(RDM~=0 & RDM~=1) = 0;
+
+Thus 2D CFAR implementation takes place with the above statement algorithm.
